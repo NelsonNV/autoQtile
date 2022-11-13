@@ -7,7 +7,7 @@ todos los elementos tienen que tener un nombre en el formato [Camel case](https:
 esto quiere decir que debe comenzar en minúsculas, y si a su vez está compuesto
 por varias palabras, las siguientes expresiones deben estar en mayúsculas.
 
-- **ejemplo**: 'fmBuscador', 'strNombre'
+- **ejemplo**: 'fnBuscador', 'strNombre'
 
 ### *Nombre de variable*
 
