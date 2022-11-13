@@ -1,0 +1,8 @@
+EOF
+[Desktop Entry]
+Name=Qtile
+Comment=controlador de ventanas en mosaico
+Exec=/usr/local/bin/qtile start
+Type=Application
+Keywords=wm;tiling
+EOF
