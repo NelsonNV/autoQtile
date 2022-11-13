@@ -21,6 +21,8 @@ por varias palabras, las siguientes expresiones deben estar en mayúsculas.
    -   **ejemplo**: 'listInfo', 'listSimple'.
 5. si la variable es una array su nombre tiene que tener el prefijo 'arr'.
    -   **ejemplo**: 'arrInfo', 'arrSimple'.
+6. si la variable es un diccionario su nombre tiene que tener el prefijo 'dic'.
+   -   **ejemplo**: 'dicNombres', 'dicConfiguracion'.
 
 ### *Nombre de funciones*
 1. las funciones tienen que tener el prefijo de fn.
