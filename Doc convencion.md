@@ -24,4 +24,4 @@ por varias palabras, las siguientes expresiones deben estar en mayúsculas.
 
 ### *Nombre de funciones*
 1. las funciones tienen que tener el prefijo de fn.
-   -   **ejemplo**: 'intEditar', 'fnBorrar'.
+   -   **ejemplo**: 'fnEditar', 'fnBorrar'.
